@@ -1,0 +1,22 @@
+	#canvasholder {
+        width: 400px;
+        margin-left: 50%;
+		margin-top: 5%;
+        }
+    #canvas {
+        float: left;
+        background-color:#E0FFFF;
+        }
+	#preview{
+		float: right;
+	}
+	
+	body {
+      color: gray;
+      background-color:#D8BFD8;
+      }
+	#status{
+	float: center}
+	
+	
+		
